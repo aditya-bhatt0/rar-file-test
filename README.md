@@ -1,1 +1,2 @@
 # rar-file-test
+SECURITY ALERT: This proof-of-concept demonstrates how attackers use advanced obfuscation—such as Right-to-Left Override (RLO) characters and self-extracting SFX containers—to disguise dangerous executable binaries as standard .jpg images. While these techniques aim to deceive users and bypass traditional filters to establish unauthorized command-line access, modern endpoint security relies on deep file-header inspection and behavioral tracking to immediately flag and block the anomalous process creation.
